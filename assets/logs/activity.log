@@ -183,3 +183,34 @@
 [2025-04-09 22:59:06] [admin] Successful login for user: admin
 [2025-04-09 23:00:42] [admin] Successful login for user: admin
 [2025-04-09 23:00:43] [admin] Checked firewall status
+[2025-04-09 23:55:34] [admin] Successful login for user: admin
+[2025-04-10 00:00:45] [admin] Failed login attempt: Invalid OTP for user: admin
+[2025-04-10 00:01:11] [admin] Successful login for user: admin
+[2025-04-10 00:01:11] [admin] Checked firewall status
+[2025-04-10 00:08:30] [admin] Successful login for user: vikki
+[2025-04-10 00:08:30] [admin] Checked firewall status
+[2025-04-10 00:14:29] [admin] Successful login for user: vikki
+[2025-04-10 00:14:29] [admin] Checked firewall status
+[2025-04-10 00:34:39] [admin] Successful login for user: admin
+[2025-04-10 00:34:40] [admin] Checked firewall status
+[2025-04-10 00:35:47] [admin] Successful login for user: vikki
+[2025-04-10 00:35:47] [admin] Checked firewall status
+[2025-04-10 00:53:09] [admin] Successful login for user: vikki
+[2025-04-10 00:53:10] [admin] Checked firewall status
+[2025-04-10 00:58:53] [admin] Successful login for user: vikki
+[2025-04-10 00:58:53] [admin] Checked firewall status
+[2025-04-10 01:00:13] [admin] Successful login for user: vikki
+[2025-04-10 01:00:13] [admin] Checked firewall status
+[2025-04-10 01:04:24] [admin] Successful login for user: vikki
+[2025-04-10 01:04:24] [admin] Checked firewall status
+[2025-04-10 01:17:41] [admin] Successful login for user: vikki
+[2025-04-10 01:17:42] [admin] Checked firewall status
+[2025-04-10 01:19:17] [admin] Successful login for user: vikki
+[2025-04-10 01:19:18] [admin] Checked firewall status
+[2025-04-10 01:20:33] [admin] Failed login attempt: Invalid credentials for user: vikki
+[2025-04-10 01:20:40] [admin] Successful login for user: vikki
+[2025-04-10 01:20:40] [admin] Checked firewall status
+[2025-04-10 01:57:34] [admin] Successful login for user: vikki
+[2025-04-10 01:57:34] [admin] Checked firewall status
+[2025-04-10 01:58:28] [admin] Successful login for user: vikki
+[2025-04-10 01:58:28] [admin] Checked firewall status

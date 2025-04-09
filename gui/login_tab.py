@@ -118,14 +118,6 @@ class LoginTab(tk.Frame):
         )
         self.otp_entry.pack(fill="x", ipady=8, pady=(0, 15))  # Increased bottom padding
 
-        # Testing note
-        tk.Label(
-            form_frame, 
-            text="For testing: Use admin/admin123 and generate OTP", 
-            bg=bg_color, 
-            fg="#6c7983", 
-            font=("Arial", 9)
-        ).pack(pady=5)
 
         # Login button
         self.login_button = tk.Button(

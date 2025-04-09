@@ -143,10 +143,6 @@ class RegisterTab(tk.Frame):
                                  insertbackground=text_color, relief=tk.FLAT, bd=0)
         self.otp_entry.pack(fill="x", ipady=8, pady=(0, 10))
         
-        # Current OTP Display (for testing only)
-        current_otp = self.totp.now()
-        tk.Label(form_frame, text=f"Demo OTP: {current_otp}", bg=bg_color, 
-                 fg="#6c7983", font=("Arial", 9)).pack(pady=5)
         
         # Button frame for Register and Back buttons
         button_frame = tk.Frame(form_frame, bg=bg_color)

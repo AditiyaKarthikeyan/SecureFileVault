@@ -1,7 +1,6 @@
-
 import tkinter as tk
 from tkinter import ttk, font
-from gui import login_tab, register_tab, vault_tab, firewall_tab, log_tab, profile_tab, admin_tab, file_sharing_tab
+from gui import login_tab, register_tab, vault_tab, firewall_tab, log_tab, profile_tab, admin_tab, file_sharing_tab, change_password_tab
 import os
 from core import database
 
@@ -103,6 +102,7 @@ class SecureFileVaultApp(tk.Tk):
         self.profile_tab = None
         self.admin_tab = None
         self.file_sharing_tab = None
+        self.change_password_tab = None
 
         # Start with login tab
         self.tab_control.add(self.login_tab, text="Login")
@@ -180,13 +180,14 @@ class SecureFileVaultApp(tk.Tk):
         
         # Add Profile tab (available to all users)
         self.profile_tab = profile_tab.ProfileTab(
-            self.tab_control, 
-            user_id,
-            bg_color=self.bg_color, 
-            accent_color=self.accent_color,
-            text_color=self.text_color, 
-            button_color=self.button_color
-        )
+                self.tab_control,
+                user_id,
+                on_change_password=self.show_change_password_tab,  # Changed parameter name to match pattern
+                bg_color=self.bg_color,
+                accent_color=self.accent_color,
+                text_color=self.text_color,
+                button_color=self.button_color
+            )
         self.tab_control.add(self.profile_tab, text="Profile")
         
         # Add Admin tab only for admin users
@@ -207,6 +208,26 @@ class SecureFileVaultApp(tk.Tk):
         # Log the login
         database.log_user_activity(user_id, "Login", "User logged in successfully")
 
+    def show_change_password_tab(self):
+        """Show the change password tab"""
+        if not self.change_password_tab:
+            self.change_password_tab = change_password_tab.ChangePasswordTab(
+                self.tab_control,
+                self.current_user_id,
+                on_success_callback=self.show_profile_tab,  # Consistent parameter naming
+                bg_color=self.bg_color,
+                accent_color=self.accent_color,
+                text_color=self.text_color,
+                button_color=self.button_color
+            )
+        self.tab_control.forget(self.profile_tab)
+        self.tab_control.add(self.change_password_tab, text="Change Password")
+            
+    def show_profile_tab(self):
+        """Return to profile tab"""
+        self.tab_control.forget(self.change_password_tab)
+        self.tab_control.add(self.profile_tab, text="Profile")
+            
     def on_logout(self):
         """Return to login screen"""
         if self.current_user_id:
@@ -223,12 +244,13 @@ class SecureFileVaultApp(tk.Tk):
         self.profile_tab = None
         self.admin_tab = None
         self.file_sharing_tab = None
+        self.change_password_tab = None
         
         # Recreate login tab
         self.login_tab = login_tab.LoginTab(
-        self.tab_control, 
-        self.on_login_success,
-        self.on_register,
+            self.tab_control, 
+            self.on_login_success,
+            self.on_register,
             bg_color=self.bg_color, 
             accent_color=self.accent_color,
             text_color=self.text_color, 
