@@ -1,0 +1,185 @@
+[2025-04-06 23:14:39] [admin] Failed login attempt
+[2025-04-06 23:15:26] [admin] Successful login
+[2025-04-06 23:15:38] [admin] Viewed file: /home/valark/SecureFileVault/assets/files/decrypted/decrypted_vikki.txt
+[2025-04-06 23:16:05] [admin] Blocked port 5000
+[2025-04-06 23:17:02] [admin] Viewed file: /home/valark/SecureFileVault/assets/files/decrypted/decrypted_vikki.txt
+[2025-04-07 00:06:07] [admin] Successful login
+[2025-04-07 21:26:05] [admin] Successful login
+[2025-04-07 21:27:06] [admin] Encrypted file: /home/valark/vikki.txt
+[2025-04-07 21:27:25] [admin] Viewed file: /home/valark/SecureFileVault/assets/files/encrypted/encrypted_vikki.txt
+[2025-04-07 21:27:30] [admin] Decrypted file: /home/valark/SecureFileVault/assets/files/encrypted/encrypted_vikki.txt
+[2025-04-07 21:27:38] [admin] Viewed file: /home/valark/SecureFileVault/assets/files/decrypted/decrypted_vikki.txt
+[2025-04-07 22:46:03] [admin] Failed login attempt
+[2025-04-07 22:46:13] [admin] Failed login attempt
+[2025-04-07 22:46:18] [admin] Successful login
+[2025-04-07 22:48:59] [admin] Viewed active network connections
+[2025-04-07 22:49:28] [admin] Viewed file: /home/valark/SecureFileVault_Test/assets/files/decrypted/decrypted_vikki.txt
+[2025-04-07 23:08:46] [admin] Successful login
+[2025-04-07 23:28:06] [admin] System verification failed: [Errno 2] No such file or directory: 'command'
+[2025-04-07 23:34:26] [admin] System verification failed: [Errno 2] No such file or directory: 'command'
+[2025-04-07 23:34:47] [admin] Successful login
+[2025-04-07 23:37:10] [admin] System verification failed: [Errno 2] No such file or directory: 'command'
+[2025-04-07 23:37:23] [admin] Successful login
+[2025-04-07 23:44:10] [admin] Checked firewall status
+[2025-04-07 23:44:23] [admin] Successful login
+[2025-04-07 23:44:28] [admin] Changed firewall state
+[2025-04-07 23:44:28] [admin] Checked firewall status
+[2025-04-07 23:44:34] [admin] Modified port rule
+[2025-04-07 23:44:34] [admin] Checked firewall status
+[2025-04-07 23:44:36] [admin] Modified port rule
+[2025-04-07 23:44:36] [admin] Checked firewall status
+[2025-04-07 23:44:40] [admin] Changed firewall state
+[2025-04-07 23:44:40] [admin] Checked firewall status
+[2025-04-07 23:44:41] [admin] Viewed active network connections
+[2025-04-07 23:58:23] [admin] Checked firewall status
+[2025-04-07 23:58:35] [admin] Successful login
+[2025-04-08 00:10:19] [admin] Checked firewall status
+[2025-04-08 00:15:54] [admin] Failed login attempt
+[2025-04-08 00:16:39] [admin] Successful login
+[2025-04-08 00:19:59] [admin] Encrypted file: /home/valark/vikki.txt
+[2025-04-08 00:20:05] [admin] Viewed file: /home/valark/SecureFileVault_Test/assets/files/encrypted/vikki.txt.enc
+[2025-04-08 00:20:11] [admin] Viewed file: /home/valark/SecureFileVault_Test/assets/files/encrypted/vikki.txt.enc
+[2025-04-08 00:20:20] [admin] Decrypted file: /home/valark/SecureFileVault_Test/assets/files/encrypted/vikki.txt.enc
+[2025-04-08 00:20:26] [admin] Viewed file: /home/valark/SecureFileVault_Test/assets/files/decrypted/decrypted_vikki.txt
+[2025-04-08 00:20:30] [admin] Viewed file: /home/valark/SecureFileVault_Test/assets/files/decrypted/decrypted_vikki.txt
+[2025-04-08 00:20:39] [admin] Viewed file: /home/valark/SecureFileVault_Test/assets/files/decrypted/vikki.txt
+[2025-04-08 00:26:38] [admin] Checked firewall status
+[2025-04-08 00:29:22] [admin] Checked firewall status
+[2025-04-08 00:29:47] [admin] Failed login attempt
+[2025-04-08 00:29:53] [admin] Failed login attempt
+[2025-04-08 00:30:03] [admin] Successful login
+[2025-04-08 00:37:54] [admin] Checked firewall status
+[2025-04-08 00:38:12] [admin] Failed login attempt - bad OTP for user: admin
+[2025-04-08 00:38:14] [admin] Failed login attempt - bad OTP for user: admin
+[2025-04-08 00:38:14] [admin] Failed login attempt - bad OTP for user: admin
+[2025-04-08 00:38:14] [admin] Failed login attempt - bad OTP for user: admin
+[2025-04-08 00:38:34] [admin] Successful login for user: admin
+[2025-04-08 00:52:31] [admin] Command test failed: Command timed out
+[2025-04-08 00:57:21] [admin] Checked firewall status
+[2025-04-08 00:57:50] [admin] Failed login attempt - bad OTP for user: admin
+[2025-04-08 00:58:08] [admin] Successful login for user: admin
+[2025-04-08 00:58:17] [admin] Changed firewall state
+[2025-04-08 00:58:17] [admin] Checked firewall status
+[2025-04-08 00:58:23] [admin] Modified port rule
+[2025-04-08 00:58:23] [admin] Checked firewall status
+[2025-04-08 00:58:26] [admin] Viewed active network connections
+[2025-04-08 00:58:30] [admin] Modified port rule
+[2025-04-08 00:58:30] [admin] Checked firewall status
+[2025-04-08 00:58:36] [admin] Changed firewall state
+[2025-04-08 00:58:36] [admin] Checked firewall status
+[2025-04-08 00:58:38] [admin] Checked firewall status
+[2025-04-08 20:23:03] [admin] Checked firewall status
+[2025-04-08 20:23:44] [admin] Successful login for user: admin
+[2025-04-08 20:25:19] [admin] Encrypted file: /home/valark/vikki.txt
+[2025-04-08 20:25:47] [admin] Decrypted file: /home/valark/SecureFileVault_Test/assets/files/encrypted/vikki.txt.enc
+[2025-04-08 20:26:04] [admin] Decrypted file: /home/valark/SecureFileVault_Test/assets/files/encrypted/vikki.txt.enc
+[2025-04-08 20:27:47] [admin] Viewed file: /home/valark/SecureFileVault_Test/assets/files/decrypted/vikki.txt
+[2025-04-08 20:28:12] [admin] Changed firewall state
+[2025-04-08 20:28:12] [admin] Checked firewall status
+[2025-04-08 20:28:20] [admin] Modified port rule
+[2025-04-08 20:28:20] [admin] Modified port rule
+[2025-04-08 20:28:20] [admin] Checked firewall status
+[2025-04-08 20:28:20] [admin] Checked firewall status
+[2025-04-08 20:28:49] [admin] Modified port rule
+[2025-04-08 20:28:49] [admin] Checked firewall status
+[2025-04-08 20:29:09] [admin] Viewed active network connections
+[2025-04-08 20:29:43] [admin] Changed firewall state
+[2025-04-08 20:29:43] [admin] Checked firewall status
+[2025-04-08 20:59:58] [admin] Checked firewall status
+[2025-04-08 21:00:05] [admin] Failed login attempt - bad OTP for user: admin
+[2025-04-08 21:00:16] [admin] Failed login attempt - bad OTP for user: admin
+[2025-04-08 21:00:16] [admin] Failed login attempt - bad OTP for user: admin
+[2025-04-08 21:00:17] [admin] Failed login attempt - bad OTP for user: admin
+[2025-04-08 21:00:17] [admin] Failed login attempt - bad OTP for user: admin
+[2025-04-08 21:00:34] [admin] Successful login for user: admin
+[2025-04-08 21:23:07] [admin] Checked firewall status
+[2025-04-08 21:23:30] [admin] Failed login attempt - bad credentials for user: admin
+[2025-04-08 21:23:39] [admin] Failed login attempt - bad credentials for user: admin
+[2025-04-08 21:23:46] [admin] Failed login attempt - bad credentials for user: admin
+[2025-04-08 21:23:47] [admin] Failed login attempt - bad credentials for user: admin
+[2025-04-08 21:23:47] [admin] Failed login attempt - bad credentials for user: admin
+[2025-04-08 21:23:58] [admin] Successful login for user: admin
+[2025-04-08 21:24:13] [admin] Viewed active network connections
+[2025-04-08 22:08:45] [admin] Checked firewall status
+[2025-04-08 22:09:06] [admin] Successful login for user: admin
+[2025-04-09 09:21:18] [admin] Firewall UI init failed: bad side "x": must be top, bottom, left, or right
+[2025-04-09 09:21:40] [admin] Failed login attempt - bad OTP for user: admin
+[2025-04-09 09:22:51] [admin] Successful login for user: admin
+[2025-04-09 09:28:43] [admin] Checked firewall status
+[2025-04-09 09:32:00] [admin] Failed login attempt - bad OTP for user: admin
+[2025-04-09 09:32:10] [admin] Successful login for user: admin
+[2025-04-09 09:34:17] [admin] Firewall UI init failed: module 'tkinter' has no attribute 'DOWN'
+[2025-04-09 09:34:38] [admin] Successful login for user: admin
+[2025-04-09 09:48:10] [admin] Checked firewall status
+[2025-04-09 09:48:30] [admin] Failed login attempt - bad OTP for user: admin
+[2025-04-09 09:48:37] [admin] Successful login for user: admin
+[2025-04-09 10:15:35] [admin] Checked firewall status
+[2025-04-09 10:15:52] [admin] Failed login attempt - bad OTP for user: admin
+[2025-04-09 10:16:08] [admin] Successful login for user: admin
+[2025-04-09 10:16:33] [admin] Changed firewall state
+[2025-04-09 10:16:34] [admin] Checked firewall status
+[2025-04-09 10:16:36] [admin] Checked firewall status
+[2025-04-09 10:16:36] [admin] Checked firewall status
+[2025-04-09 10:16:40] [admin] Checked firewall status
+[2025-04-09 10:16:41] [admin] Checked firewall status
+[2025-04-09 10:16:47] [admin] Viewed active network connections
+[2025-04-09 10:16:49] [admin] Checked firewall status
+[2025-04-09 10:16:56] [admin] Modified port rule
+[2025-04-09 10:16:56] [admin] Checked firewall status
+[2025-04-09 10:17:01] [admin] Modified port rule
+[2025-04-09 10:17:01] [admin] Checked firewall status
+[2025-04-09 10:17:07] [admin] Changed firewall state
+[2025-04-09 10:17:07] [admin] Checked firewall status
+[2025-04-09 20:36:22] [admin] User registered: user01
+[2025-04-09 20:36:46] [admin] Failed login attempt: Invalid OTP for user: user01
+[2025-04-09 20:36:47] [admin] Failed login attempt: Invalid OTP for user: user01
+[2025-04-09 20:36:47] [admin] Failed login attempt: Invalid OTP for user: user01
+[2025-04-09 20:36:55] [admin] Successful login for user: user01
+[2025-04-09 20:36:55] [admin] Checked firewall status
+[2025-04-09 20:37:18] [admin] Changed firewall state
+[2025-04-09 20:37:18] [admin] Checked firewall status
+[2025-04-09 20:37:22] [admin] Changed firewall state
+[2025-04-09 20:37:23] [admin] Changed firewall state
+[2025-04-09 20:37:23] [admin] Changed firewall state
+[2025-04-09 20:37:23] [admin] Checked firewall status
+[2025-04-09 20:37:23] [admin] Checked firewall status
+[2025-04-09 20:37:23] [admin] Checked firewall status
+[2025-04-09 20:42:04] [admin] Successful login for user: user01
+[2025-04-09 20:42:05] [admin] Checked firewall status
+[2025-04-09 21:01:07] [admin] Successful login for user: user01
+[2025-04-09 21:30:46] [admin] Failed login attempt: Invalid OTP for user: admin
+[2025-04-09 21:31:03] [admin] Failed login attempt: Invalid OTP for user: admin
+[2025-04-09 21:31:09] [admin] Successful login for user: admin
+[2025-04-09 21:31:19] [admin] Command test failed: Command timed out
+[2025-04-09 21:36:18] [admin] Failed login attempt: Invalid OTP for user: admin
+[2025-04-09 21:36:37] [admin] Successful login for user: admin
+[2025-04-09 21:36:47] [admin] Command test failed: Command timed out
+[2025-04-09 21:39:39] [admin] User registered: vikki
+[2025-04-09 21:40:00] [admin] Failed login attempt: Invalid OTP for user: vikki
+[2025-04-09 21:40:09] [admin] Failed login attempt: Invalid OTP for user: vikki
+[2025-04-09 21:40:11] [admin] Failed login attempt: Invalid OTP for user: vikki
+[2025-04-09 21:40:11] [admin] Failed login attempt: Invalid OTP for user: vikki
+[2025-04-09 21:40:11] [admin] Failed login attempt: Invalid OTP for user: vikki
+[2025-04-09 21:40:11] [admin] Failed login attempt: Invalid OTP for user: vikki
+[2025-04-09 21:40:11] [admin] Failed login attempt: Invalid OTP for user: vikki
+[2025-04-09 21:40:13] [admin] Failed login attempt: Invalid OTP for user: vikki
+[2025-04-09 21:40:21] [admin] Successful login for user: vikki
+[2025-04-09 21:41:40] [admin] User vikki shared file with admin
+[2025-04-09 21:43:38] [admin] Successful login for user: admin
+[2025-04-09 21:45:10] [admin] Successful login for user: admin
+[2025-04-09 21:45:11] [admin] Checked firewall status
+[2025-04-09 21:46:09] [admin] Admin updated permissions for user: vikki
+[2025-04-09 21:46:14] [admin] Admin updated permissions for user: vikki
+[2025-04-09 21:46:37] [admin] Viewed file: /home/valark/SecureFileVault_T2/assets/files/decrypted/decrypted_vikki.txt
+[2025-04-09 21:46:46] [admin] Viewed file: /home/valark/SecureFileVault_T2/assets/files/decrypted/vikki.txt
+[2025-04-09 21:47:49] [admin] Successful login for user: vikki
+[2025-04-09 21:47:49] [admin] Checked firewall status
+[2025-04-09 21:50:12] [admin] Successful login for user: admin
+[2025-04-09 21:50:12] [admin] Checked firewall status
+[2025-04-09 22:14:16] [admin] Successful login for user: vikki
+[2025-04-09 22:14:17] [admin] Checked firewall status
+[2025-04-09 22:53:36] [admin] Successful login for user: admin
+[2025-04-09 22:53:37] [admin] Checked firewall status
+[2025-04-09 22:59:06] [admin] Successful login for user: admin
+[2025-04-09 23:00:42] [admin] Successful login for user: admin
+[2025-04-09 23:00:43] [admin] Checked firewall status
